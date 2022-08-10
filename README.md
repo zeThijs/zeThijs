@@ -1,5 +1,5 @@
 ### Hello Hello 👋
-Dutch dude that has been tinkering with modding, programming and electrics for a while. Started a programming course dev dotnet recently.
+I'm from the Netherlands and like modding, programming and electrics. Recentl started a programming course development in dotnet.
 ## Things I have dabbled in:
 - 🎮 Made mods and plugins for nmrih. Tinkered with and kept servers afloat.
 
