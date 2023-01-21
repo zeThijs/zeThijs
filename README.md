@@ -1,11 +1,8 @@
-### Hello Hello 👋
-I'm from the Netherlands and like modding, programming and electrics. Recently started a programming course development in dotnet.
-## Things I have dabbled in:
-- 🎮 Made mods and plugins for nmrih. Tinkered with and kept servers afloat.
+### Hi 
+This place will contain projects in (mostly) working state. Currently this is mostly vscript-/sourcemod-plugins for nmrih, and python scripts. Future me (from 2023)
+is sure to add other tinkering.
 
-- 👨‍💻 Python, c/c++, c#, php, sourcemod, squirrel, and more. Whatever most fit the usecase.
-- 👁️ Made some websites
-- 💽 MYSQL, sqlite, database stuff
-- ⏚  Electrical Engineering
+### About me
+I love modding, programming and electrical engineering. I'm from the Netherlands, so you can probably buy my loyalty with cheese or clogs.
 
 ![zeThijs GitHub stats](https://github-readme-stats.vercel.app/api?username=zeThijs&show_icons=true&theme=gruvbox)
