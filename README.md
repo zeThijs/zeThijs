@@ -1,6 +1,7 @@
 <pre>   Hi 
 This place will contain projects in (mostly) working state. 
-Currently this is mostly vscript-/sourcemod-plugins for nmrih, and python scripts. Future me (from 2023) is sure to add other tinkering.
+Currently this is mostly vscript-/sourcemod-plugins for nmrih, and python scripts. 
+Future me (from 2023) is sure to add other tinkering.
 
    About me
 I love modding, programming and electrical engineering. 
