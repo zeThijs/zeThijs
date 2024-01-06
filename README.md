@@ -1,7 +1,7 @@
 <pre>   Hi 
 This place will contain projects in (mostly) working state. 
-Currently this is mostly vscript-/sourcemod-plugins for nmrih, and python scripts. 
-Future me (from 2023) is sure to add other tinkering.
+This includes vscripts for maps, sourcemod-plugins for nmrih, python tools and c# programs. 
+I might Upload my electrical schematics at some points who knows 
 
    About me
 I love modding, programming and electrical engineering. 
