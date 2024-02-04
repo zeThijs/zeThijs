@@ -1,5 +1,5 @@
 <pre>   Hi 
-This place will contain projects in (mostly) working state. 
+This place will contain projects in working state. 
 This includes vscripts for maps, sourcemod-plugins for nmrih, python tools and c# programs. 
 I might Upload my electrical schematics at some points who knows 
 
